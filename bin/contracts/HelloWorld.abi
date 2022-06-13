@@ -1,0 +1,1 @@
+[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"string","name":"nm","type":"string"}],"name":"setName","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"yourName","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"}]
